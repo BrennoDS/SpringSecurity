@@ -31,3 +31,13 @@ build/
 
 ### VS Code ###
 .vscode/
+*.log
+*.db
+*.mv.db
+*.trace.db
+.env
+.env.*
+private.key
+public.key
+.DS_Store
+Thumbs.db
